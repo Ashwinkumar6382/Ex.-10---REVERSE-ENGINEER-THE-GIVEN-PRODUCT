@@ -33,10 +33,13 @@
 ## Input:
 
 ### Output:
+![Screenshot 2025-05-15 090137](https://github.com/user-attachments/assets/1e25feaa-a7b9-4b2c-bc4e-b614c3631946)
+![Screenshot 2025-05-15 090156](https://github.com/user-attachments/assets/b484b836-46f9-4826-99cb-1858d11d7cc6)
 
 
-### Name:
-### Register Number:
+
+### Name:Ashwin kumar E
+### Register Number:212224230026
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
